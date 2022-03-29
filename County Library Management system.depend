@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648210190 source:c:\users\user\documents\sturucturedprogramming 2022\county library management system\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
